@@ -1,0 +1,33 @@
+.autocap {
+	clear: both;
+	border: 1px solid #000;
+	margin: 1em auto;
+}
+
+.autocap div {
+    /* not used, but available for you to use */
+}
+
+.autocap-text {
+	text-align: center;
+	padding: 0 0.5em;
+	font-size: 0.9em;
+}
+
+.autocap.alignright {
+	float: right;
+    margin: 0.4em 0 0 1em;
+}
+
+.autocap.alignleft {
+	float: left;
+	margin: 0.4em 1em 0 0;
+}
+
+.hide {
+	display: none;
+}
+
+.autocap img {
+	max-width: 696px;
+}
